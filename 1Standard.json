@@ -12,8 +12,8 @@
             [-76.09, 39.17],
             [-76.46, 38.06],
             [-77.64, 38.15],
-            [-78.00, 39.38],
-            [-77.05, 38.87]  // Added the missing point (midpoint of first and last points)
+            [-78.00, 39.38]
+         // Added the missing point (midpoint of first and last points)
           ]
         ]
       }
